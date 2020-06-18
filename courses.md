@@ -25,3 +25,8 @@
     * URL: https://www.udemy.com/course/jenkins2-windows
   * Jenkins 2 Bootcamp: Fully Automate Builds to Deployment 2020
     * URL: https://www.udemy.com/course/jenkins-continuous-integration-bootcamp
+* Other Courses
+
+* Co-Instructor Courses
+  * Ionic Basics
+    * URL: https://www.udemy.com/course/ionic-basics
