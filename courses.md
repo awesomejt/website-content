@@ -28,6 +28,8 @@
 * Other Courses (radiant.training)
   * Vagrant Quick Start: Virtualized Development Environments
     * URL: https://www.udemy.com/course/vagrant-quick-start
+  * Vagrant Up! Comprehensive development system automation
+    * URL: https://www.udemy.com/course/vagrant-up
 * Co-Instructor Courses
   * Ionic Basics
     * URL: https://www.udemy.com/course/ionic-basics
