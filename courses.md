@@ -16,3 +16,8 @@
 * Maven (maven.training)
   * Maven Quick Start: A Fast Introduction to Maven by Example
     * URL: https://www.udemy.com/course/maven-quick-start
+  * Maven Crash Course: Step-by-Step Introduction for Beginners
+    * URL: https://www.udemy.com/course/maven-crash-course
+* Jenkins (jenkins.training)
+  * Jenkins 2 Introduction for Beginners on Mac OS
+    * URL: https://www.udemy.com/course/jenkins2-mac
