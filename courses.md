@@ -11,3 +11,5 @@
     * URL: https://www.udemy.com/course/git-for-geeks
   * Git Going Fast: One Hour Git Crash Course
     * URL: https://www.udemy.com/course/git-going-fast
+  * Git Going with Comparing, Branching and Merging
+    * URL: https://www.udemy.com/course/git-compare-branch-merge-rebase/
