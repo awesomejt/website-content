@@ -23,3 +23,5 @@
     * URL: https://www.udemy.com/course/jenkins2-mac
   * Jenkins 2 Introduction for Beginners on Windows
     * URL: https://www.udemy.com/course/jenkins2-windows
+  * Jenkins 2 Bootcamp: Fully Automate Builds to Deployment 2020
+    * URL: https://www.udemy.com/course/jenkins-continuous-integration-bootcamp
