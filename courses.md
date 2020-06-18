@@ -9,3 +9,5 @@
     * URL: https://www.udemy.com/course/github-ultimate
   * Git for Geeks: Quick Git Training for Developers
     * URL: https://www.udemy.com/course/git-for-geeks
+  * Git Going Fast: One Hour Git Crash Course
+    * URL: https://www.udemy.com/course/git-going-fast
