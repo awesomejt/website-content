@@ -25,8 +25,9 @@
     * URL: https://www.udemy.com/course/jenkins2-windows
   * Jenkins 2 Bootcamp: Fully Automate Builds to Deployment 2020
     * URL: https://www.udemy.com/course/jenkins-continuous-integration-bootcamp
-* Other Courses
-
+* Other Courses (radiant.training)
+  * Vagrant Quick Start: Virtualized Development Environments
+    * URL: https://www.udemy.com/course/vagrant-quick-start
 * Co-Instructor Courses
   * Ionic Basics
     * URL: https://www.udemy.com/course/ionic-basics
