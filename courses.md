@@ -13,6 +13,8 @@
     * URL: https://www.udemy.com/course/git-going-fast
   * Git Going with Comparing, Branching and Merging
     * URL: https://www.udemy.com/course/git-compare-branch-merge-rebase/
+  * Git Started with GitHub
+    * URL: https://www.udemy.com/course/git-started-with-github
 * Maven (maven.training)
   * Maven Quick Start: A Fast Introduction to Maven by Example
     * URL: https://www.udemy.com/course/maven-quick-start
@@ -36,8 +38,6 @@
     * https://www.udemy.com/course/mac-bash-terminal
   * Command Line Essentials: Git Bash for Windows
     * URL: https://www.udemy.com/course/git-bash/
-  * Git Started with GitHub
-    * URL: https://www.udemy.com/course/git-started-with-github
 * Co-Instructor Courses
   * Ionic Basics
     * URL: https://www.udemy.com/course/ionic-basics
