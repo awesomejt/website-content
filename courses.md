@@ -32,6 +32,8 @@
     * URL: https://www.udemy.com/course/vagrant-up
   * Markdown Mastery: Simple yet Powerful Writing Format
     * URL: https://www.udemy.com/course/markdown
+  * Unleashing the Mac OS X Terminal for Absolute Beginners
+    * https://www.udemy.com/course/mac-bash-terminal
 * Co-Instructor Courses
   * Ionic Basics
     * URL: https://www.udemy.com/course/ionic-basics
