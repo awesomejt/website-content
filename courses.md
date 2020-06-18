@@ -30,6 +30,8 @@
     * URL: https://www.udemy.com/course/vagrant-quick-start
   * Vagrant Up! Comprehensive development system automation
     * URL: https://www.udemy.com/course/vagrant-up
+  * Markdown Mastery: Simple yet Powerful Writing Format
+    * URL: https://www.udemy.com/course/markdown
 * Co-Instructor Courses
   * Ionic Basics
     * URL: https://www.udemy.com/course/ionic-basics
