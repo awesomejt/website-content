@@ -1,5 +1,5 @@
-# Maven Quick Start: A Fast Introduction to Maven by Example
+# Maven Crash Course: Step-by-Step Introduction for Beginners
 
-### A software engineer's starter guide to Apache Maven using step-by-step tutorials.
+### Quick introduction of core concepts reinforced with practical, ,project-based examples using Maven, Git and Eclipse.
 
-URL: https://www.udemy.com/course/maven-quick-start
+URL: https://www.udemy.com/course/maven-crash-course
