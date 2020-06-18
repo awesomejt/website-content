@@ -21,3 +21,5 @@
 * Jenkins (jenkins.training)
   * Jenkins 2 Introduction for Beginners on Mac OS
     * URL: https://www.udemy.com/course/jenkins2-mac
+  * Jenkins 2 Introduction for Beginners on Windows
+    * URL: https://www.udemy.com/course/jenkins2-windows
