@@ -13,3 +13,6 @@
     * URL: https://www.udemy.com/course/git-going-fast
   * Git Going with Comparing, Branching and Merging
     * URL: https://www.udemy.com/course/git-compare-branch-merge-rebase/
+* Maven (maven.training)
+  * Maven Quick Start: A Fast Introduction to Maven by Example
+    * URL: https://www.udemy.com/course/maven-quick-start
