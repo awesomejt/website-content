@@ -7,3 +7,5 @@
     * URL: https://www.udemy.com/course/git-for-windows
   * GitHub Ultimate: Master Git and GitHub - Beginner to Expert
     * URL: https://www.udemy.com/course/github-ultimate
+  * Git for Geeks: Quick Git Training for Developers
+    * URL: https://www.udemy.com/course/git-for-geeks
