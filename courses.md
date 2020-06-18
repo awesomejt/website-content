@@ -30,3 +30,5 @@
 * Co-Instructor Courses
   * Ionic Basics
     * URL: https://www.udemy.com/course/ionic-basics
+  * Practical iOS 11: What's New in iOS 11, Swift 4 and Xcode 9
+    * URL: https://www.udemy.com/course/practical-ios-11/
