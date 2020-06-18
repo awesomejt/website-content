@@ -34,6 +34,8 @@
     * URL: https://www.udemy.com/course/markdown
   * Unleashing the Mac OS X Terminal for Absolute Beginners
     * https://www.udemy.com/course/mac-bash-terminal
+  * Command Line Essentials: Git Bash for Windows
+    * URL: https://www.udemy.com/course/git-bash/
 * Co-Instructor Courses
   * Ionic Basics
     * URL: https://www.udemy.com/course/ionic-basics
